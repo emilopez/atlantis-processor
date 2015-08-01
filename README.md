@@ -24,9 +24,9 @@ Dicho directorio debe contener los 11 tifs correspondientes a las bandas del sat
 
 ## Requisitos
 
-- python 2.7
+- Python 2.7
 
-- Grass GIs 7.x
+- GRASS GIS 7.x
 
 - Django 1.8
 
