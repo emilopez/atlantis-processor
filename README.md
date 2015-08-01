@@ -6,7 +6,7 @@ Autor: Atlantis Group
 
 - Frontend web: https://github.com/jcabdala/atlantisapp
 
-Módulo :loadLandsat.py
+Módulo: loadLandsat.py
 ----------------------------
 
 Descripción: Módulo para crear shapefile de cuerpos de agua desde una imagen Landsat 8
