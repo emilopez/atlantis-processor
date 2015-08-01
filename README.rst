@@ -4,6 +4,7 @@ Autor: Atlantis Group
 
 Módulo :loadLandsat.py
 ----------------------------
+
 Descripción: Módulo para crear shapefile de cuerpos de agua desde una imagen Landsat 8
 
 ----------------------------
