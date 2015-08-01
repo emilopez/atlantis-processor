@@ -21,8 +21,8 @@ Dicho directorio debe contener los 11 tifs correspondientes a las bandas del sat
 
 - <output_directory> : Directorio de salida de la aplicación.
 
-----------------------------
-Requisitos:
+
+## Requisitos
 
 - python 2.7
 
