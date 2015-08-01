@@ -16,10 +16,10 @@ Cómo usar: $python loadLandsat.py \<source_directory> \<output_directory>
 
 dónde 
 
-- <source_directory>: Es el path absoluto al directorio que contiene los tifs correspondientes a una imagen landsat.
+- \<source_directory>: Es el path absoluto al directorio que contiene los tifs correspondientes a una imagen landsat.
 Dicho directorio debe contener los 11 tifs correspondientes a las bandas del satélite junto con el archivo de metadatos.
 
-- <output_directory> : Directorio de salida de la aplicación.
+- \<output_directory> : Directorio de salida de la aplicación.
 
 
 ## Requisitos
