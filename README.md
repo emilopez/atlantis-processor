@@ -12,7 +12,9 @@ Módulo: loadLandsat.py
 Descripción: Módulo para crear shapefile de cuerpos de agua desde una imagen Landsat 8
 
 ----------------------------
-Cómo usar: prompt$ python loadLandsat.py <source_directory> <output_directory>
+Cómo usar: 
+
+$python loadLandsat.py <source_directory> <output_directory>
 
 dónde 
 
