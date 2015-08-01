@@ -20,7 +20,9 @@ Dicho directorio debe contener los 11 tifs correspondientes a las bandas del sat
 Requisitos:
 
 \* python 2.7
+
 \* Grass GIs 7.x
+
 \* Django 1.8
 
 Además: Crear location <loc> en Grass Gis y mapset <map> con PROJ EPSG 4326 (leer desde alguna banda de Landsat)
